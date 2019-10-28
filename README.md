@@ -1,28 +1,54 @@
 # customer-segmentation
 
-Analyzing demographics data to identify potention customers within the general population
+Analyzing demographics data to identify potential customers within the general population
 
 ## Motivation
 
-A mail-order company in Germany is looking into expanding their customer base. The best way to acquire new customers is by launching a targeted marketing campaign wherein specific individuals who are more likely to become customers are targeted with advertisements. The company requires identification of these 'potential customers' within the general population. Arvato Financial Solutions has tasked me with analyzing demographics data for both the mail-order company's customer base and the general population at large to identify parts of the population that best describe the core customer base of the company.
-
-## Approach
-
-1. Exploratory Data Analysis
-	- Data overview
-	- Visualization
-	- Descriptive Statistics
-	- Data Cleaning
-2. Customer Segmentation
-	- Dimensionality Reduction
-	- Clustering
-	- Visualization
-3. Predictive Modeling
-	- Predictive model training
-	- Model Evaluation
-	- Kaggle Score
+A mail-order company in Germany is looking into expanding their customer base. The best way to acquire new customers is by launching a targeted marketing campaign wherein specific individuals who are more likely to become customers are targeted with advertisements. The company requires identification of these 'potential customers' within the general population. Arvato Financial Solutions has tasked me with analyzing demographics data for both the mail-order company's customer base and the general population at large to identify parts of the population that best describe the core customer base of the company. The end goal of this project is to use data analysis from EDA and customer segmentation to build a model that predicts whether an individual in the general population is likely to become a customer.
 
 
-## 
+## Installation
 
+The following libraries will need to be installed and/or updated to run the code in Anaconda v4.6 running python v3.*.
+
+```
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+imblearn
+```
+
+## File Descriptions
+
+There is a single notebook contained in this repository to showcase my work. 
+
+## Results
+
+The main findings of this project are found in the medium blog [here]()
+
+
+## Authors
+
+* **Sameed Akber** - *customer-segmentation* - [sameedakber-ai](https://github.com/sameedakber-ai)
+
+## License
+
+Copyright 2019 Sameed Akber
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial
+portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
 
