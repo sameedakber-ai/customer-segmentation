@@ -2,6 +2,10 @@
 
 Analyzing demographics data to identify potential customers within the general population
 
+Medium Blog Post:
+
+[![Medium Blog Post](images/medium.png "blog post")](https://medium.com/@sameedakber.ai/customer-segmentation-report-for-arvato-financial-solutions-business-intelligence-from-36be5b71f480)
+
 ## Motivation
 
 A mail-order company in Germany is looking into expanding their customer base. The best way to acquire new customers is by launching a targeted marketing campaign wherein specific individuals who are more likely to become customers are targeted with advertisements. The company requires identification of these 'potential customers' within the general population. Arvato Financial Solutions has tasked me with analyzing demographics data for both the mail-order company's customer base and the general population at large to identify parts of the population that best describe the core customer base of the company. The end goal of this project is to use data analysis from EDA and customer segmentation to build a model that predicts whether an individual in the general population is likely to become a customer.
@@ -22,7 +26,11 @@ imblearn
 
 ## File Descriptions
 
-There is a single notebook contained in this repository to showcase my work. 
+```
+Arvato Customer Segmentation.ipynb - Notebook showcasing my work for the project
+data/feature_info_2.xlsx - Excel file that maps feature names to data types and null placeholders
+data/kaggle.csv - Entry for the kaggle competetion
+```
 
 ## Results
 
