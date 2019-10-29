@@ -26,7 +26,7 @@ There is a single notebook contained in this repository to showcase my work.
 
 ## Results
 
-The main findings of this project are found in the medium blog [here]()
+The main findings of this project are found in the medium blog [here](https://medium.com/@sameedakber.ai/customer-segmentation-report-for-arvato-financial-solutions-business-intelligence-from-36be5b71f480)
 
 
 ## Authors
