@@ -1,3 +1,6 @@
 /myenv
-/data/
+/data/mailout_test.csv
+/data/mailout_train.csv
+/data/azdias.csv
+/data/customers.csv
 /.ipynb_checkpoints/
