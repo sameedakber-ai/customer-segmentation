@@ -28,13 +28,21 @@ imblearn
 
 ```
 Arvato Customer Segmentation.ipynb - Notebook showcasing my work for the project
-data/feature_info_2.xlsx - Excel file that maps feature names to data types and null placeholders
+Report.pdf - Detailed project report
+data/azdias.zip - Demographics data for the general population
+data/customers.zip - Demographics data for the mail-order compamy's customer base
+data/mailout_train.zip - Demographics data for training classifier model
+data/mailout_test.zip - Demographics data for testing classifier model
+data/feature_info_2.xlsx - Excel file containing feature data types
 data/kaggle.csv - Entry for the kaggle competetion
+
 ```
 
 ## Results
 
-The main findings of this project are found in the medium blog [here](https://medium.com/@sameedakber.ai/customer-segmentation-report-for-arvato-financial-solutions-business-intelligence-from-36be5b71f480)
+Detailed report for the project is provided as Report.pdf
+
+The main findings of this project are summarized in the medium blog [here](https://medium.com/@sameedakber.ai/customer-segmentation-report-for-arvato-financial-solutions-business-intelligence-from-36be5b71f480)
 
 
 ## Authors
