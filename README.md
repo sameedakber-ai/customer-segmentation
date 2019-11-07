@@ -30,6 +30,11 @@ imblearn
 Arvato Customer Segmentation.ipynb - Notebook showcasing my work for the project
 data/feature_info_2.xlsx - Excel file that maps feature names to data types and null placeholders
 data/kaggle.csv - Entry for the kaggle competetion
+data/azdias.csv - Demographics data for the general population
+data/customers.csv - Demographics data for the mail-order compamy's customer base
+data/mailout_train.csv - Demographics data for training classifier
+data/mailout_test.csv - Demographics data for testing classifier
+
 ```
 
 ## Results
